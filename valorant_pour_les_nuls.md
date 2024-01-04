@@ -160,15 +160,6 @@ Effectivement si vous voulez rester invisible faites le jusqu'au bout. Par contr
 
 Attention ne tentez pas de rester invisible tout le temps, c'est pas possible et c'est pas très utile.
 
-
-
-
-
-
-
-
-
-
 # III. Devenir un bon joueur
 
 Y'a pas de secret pour devenir un bon joueur, il faut juste jouer au jeu, essayer de regarder des matchs de pro (bonjour Noé), relire ce petit mémo 🙂. Bref tout ce que vous aller faire quelque chose de prêt ou de loin de Valo va vous être utile et même pour plus tard. (Et puis si vous avez la flemme bah dommage pour vous ou venez pas pleurer parce que vous êtes nuls)
