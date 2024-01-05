@@ -26,11 +26,13 @@ Sur votre écran vous avez pleins d'infos ultra importantes qui vous permettent 
 - le crosshair (bon je passe pour celui là)
 
 - Vos spells : je vois trop peu de gens utiliser leurs spells. C'est un peu comme si vous jouez à CS sans utiliser les grenades ou a Fortnite sans utiliser la pioche pour construire. C'est un peu con non ? Alors utilisez vos spells, ils sont là pour ça.
-    - ⚠️ **ATTENTION** : Cela vos égualement pour les ultimates. **UTILISEZ LES**, évidemment c'est mieux si ils sont bien utilisés mais au moins ils sont utilisés. (Sinon tout les points d'ultimates que vous gaspillez, c'est des ressources en moins pour votre équipe)
+    - ⚠️ **ATTENTION** : Cela vaut également pour les ultimates. **UTILISEZ LES**, évidemment c'est mieux si ils sont bien utilisés mais au moins ils sont utilisés. (Sinon tout les points d'ultimates que vous gaspillez, c'est des ressources en moins pour votre équipe)
 
-- La map : Ultra, ultra important. Pareil au début on peut se demander, mais WTF a quoi ça sert. Détrompez vous, personnelement je regarde autant ma minimap que mon crosshair tout simplement car elle me permet de voir ce qui se passe sans demander a mes potes ce qui se passe pour éviter de polluer le vocal. (On reviendra sur le vocal plus tard [ici](###vocal)
+- La map : Ultra, ultra important. Pareil au début on peut se demander, mais WTF a quoi ça sert. Détrompez vous, personnelement je regarde autant ma minimap que mon crosshair tout simplement car elle me permet de voir ce qui se passe sans demander a mes potes ce qui se passe pour éviter de polluer le vocal. On reviendra sur le vocal plus tard [ici](###vocal)
 
-- Le nombre de joueurs en vie : Ça parait anodin comme info mais c'est important de savoir si vous êtes en supériorité numérique ou non et pas que quelqu'un le répète dans le vocal.
+- Le nombre de joueurs en vie : Ça parait anodin comme info mais c'est important de savoir si vous êtes enégua supériorité numérique ou non et pas que quelqu'un le répète dans le vocal.
+
+- Le temps : info très importante ! Un round c'est 1min40, c'est beaucoup ! Cela permet de faire plein de chose quand on est en attaque mais également en défense. Pas la peine de faire des rounds qui dure 30 secondes toute la game.
 
 Bref cette petite liste paraît absurde et hyper simple mais ce sont des choses encore non acquises dans la team.
 
@@ -80,12 +82,13 @@ Cette personne est clairement la plus importante de l'équipe car elle va donner
 
 - **Le leader in-game est là pour guider l'équipe et ne doit pas baby-sitter chaque joueur, il doit pouvoir se concentrer sur son jeu et pas sur ce que vous faites.** Donc parler entre vous.
 
-- Effectivement, je pense ici que certains d'entre vous ont des automatismes avec les autres joueurs de la team. C'est pour cela qu'il faut parler avec son mate pour connaitre : 
+- Effectivement, je pense ici que certains d'entre vous n'ont pas d'automatismes avec les autres joueurs de la team. C'est pour cela qu'il faut parler avec son mate pour connaitre : 
     - Ce qu'il veut faire
     - Ce qu'il peut faire
     - Ce qu'il a comme équipement
 Puis après cela vous pouvez faire des choses ensemble.
 
+- Quand vous êtes morts, évitez de parler. C'est pas très agréable pour les autres et puis vous pouvez les déconcentrer. (surtout pour moi, les autres jsp)
 
 Bon je pense que la partie I est terminée et que vous avez compris l'essentiel. (Si vous avez des questions n'hésitez pas à me les poser à moi ou à Noé)
 
@@ -98,7 +101,7 @@ Dans cette partie je vais vous drop tous les points que moi ou Noé on évoqué 
 
 ## 1. le vocal (encore)
 
-🌞 Il est primordiale de communiquer avec son équipe pour gagner.
+🌞 Il est **primordial** de communiquer avec son équipe pour gagner.
 
 Et oui si votre KJ par exmple ne vous dit rien sur le site qu'elle controle, compliqué de l'aider et au risque de vous faire tuer car les mecs sont déjà sur le site.
 
@@ -159,6 +162,24 @@ Alors que si vous faites un moove vous pouvez faire un kill et vous retrouver en
 Effectivement si vous voulez rester invisible faites le jusqu'au bout. Par contre si un pote cours et fait du bruit, bah vous êtes grillé mais c'est pas grave il faut le suivre et le soutenir.
 
 Attention ne tentez pas de rester invisible tout le temps, c'est pas possible et c'est pas très utile.
+
+🌞 Quand vous êtes seul sur un site, jouer de manière passive et ne pas mourir
+
+Je m'explique, si vous êtes seul sur un site cela veut dire que votre équipe va jouer très fort sur les autres sites, a vous donc de ne pas jouer de manière agressive sinon vous allez mourir. Attendez gentillement vos équipers et ralentissez les ennemis pour gagner du temps.
+---
+
+
+## 3. La vision de jeu
+
+Un point très important pour réussir à gagner. 
+
+🌞 Essayer de prédir ce que l'équipe adverse va faire
+
+Si vous essayez de prédir l'équipe adverse, vous allez pouvoir anticiper ce qu'ils vont faire et donc vous allez pouvoir les contrer.
+Par exemple, préparer du stuff cohérent avec la situation, préparer son crosshair placement pour pouvoir faire une décale et prendre un kill, etc...
+Ce point là il est essentiel pour qu'on arrête de vous baby-sitter.
+Prenez des initiatives, écoutez vos potes, les bruits autour de vous, le stuff utilisé par les ennemis pour pouvoir vous faire une idée de ce qu'ils vont faire.
+
 
 # III. Devenir un bon joueur
 
